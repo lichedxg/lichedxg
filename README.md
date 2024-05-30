@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lichedxg
 - 👀 I’m interested in Cybersecurity and hacking
 - 🌱 I’m currently learning Cybersecurity and ethical hacking
-- ⚡ Fun fact: I've neverd used github before
+- ⚡ Fun fact: I've never used github before
